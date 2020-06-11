@@ -1,2 +1,2 @@
 # LogUtil-Android
-Simple Android Library
+Simple Android Library for message logging.
